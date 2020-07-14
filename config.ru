@@ -307,7 +307,7 @@ $ git push</pre>
         </footer>
 </section>
 
-ENDOFHTML
+ENDOFHTML version2
 </body>
 </html>
 WELCOME_CONTENTS
