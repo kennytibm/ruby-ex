@@ -307,7 +307,7 @@ $ git push</pre>
         </footer>
 </section>
 
-ENDOFHTML version3
+Hello from ruby-ex
 </body>
 </html>
 WELCOME_CONTENTS
