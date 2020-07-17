@@ -307,7 +307,10 @@ $ git push</pre>
         </footer>
 </section>
 
-HHHHHELLOHello from ruby-ex
+Hello from ruby-ex
+Version 2.0
+
+
 </body>
 </html>
 WELCOME_CONTENTS
